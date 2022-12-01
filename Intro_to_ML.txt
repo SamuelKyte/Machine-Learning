@@ -1,0 +1,26 @@
+My research topic is AI Real-time Translation.
+
+Information found at: 
+https://www.kdnuggets.com/2022/07/realtime-translations-ai.html
+https://www.sciencedirect.com/science/article/pii/S2095809921002745
+
+Findings:
+
+Real-time translation technology is a tech-driven solution that quickly translates material from one language to another. Real-time translation is a feature that accomplishes the task of instantly translating another language into the user's chosen language.
+
+This increases efficiency and the customer experience at the enterprise level by allowing companies to connect with customers in hundreds of languages while still employing their existing contact centers, service desks, and staff.
+
+Older versions of this technology would transform speech to text before translating it into the target language. The method has been further improved with the usage of AI. The present real-time translation technology, based on Artificial Intelligence and several types of machine learning, employs advanced pattern-matching software that can distinguish noises.  It employs sound-identification software that matches patterns. For accurately understanding what is being said and being understood in terms of the context of words and sentences, neural networks and deep learning programs are used.
+
+Especially in recent years, translation quality has been greatly improved with the emergence of neural machine translation (NMT). A typical NMT model contains two components: An encoder network maps the source sentence into a real-valued vector, from which a decoder network produces the translation. This process is analogous to a human’s translation. The NMT model first “reads” the whole source sentence; then, based on its understanding of the sentence, the model generates the target sentence word by word. Compared with previous methods such as RBMT and SMT, NMT does not need human-designed rules and features. NMT is an end-to-end framework that directly learns semantic representation and translation knowledge from the training corpora. 
+
+
+In my own words:
+
+Language is all about connections with people. As our world becomes more interconnected than ever before, we are facing culture clashes and language barriers on the individual level at a much higher rate than before. While governments and corps have relied heavily on bilingual representatives and/or translators, many individuals cannot afford such a luxery. 
+
+As an avid traveler myself, many small issues have resulted from language barriers, or poor translations. Even with technology assistance, translators can be a burden to use, as translation delays, spotty wifi, and mistranslations often occur. 
+
+With the trend in real-time translation, many of these issues could be erased: making translation as fluid and natural as if we were speaking the same language.
+
+As translators have advanced, being able to now use voice translation, download languages for use away from wifi, so too with real-time translation tech improve.
